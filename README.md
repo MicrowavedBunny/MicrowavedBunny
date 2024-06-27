@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 📫 How to reach me: https://www.linkedin.com/in/jacobedavidson/ || Discord: MicrowavedBunny
+- ⚡ I make Doom Eternal mods: https://next.nexusmods.com/profile/MicrowavedBunny/mods
 - ⚡ ~~Fun fact: I have a CSGO Bhop and Surf Server: https://bunnysbhop.com~~ (defunct due to cs2)
 
 <!--
